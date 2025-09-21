@@ -1,0 +1,13 @@
+{
+    "botToken": "your-telegram-bot-token",
+    "apiKey": "your-binance-api-key",
+    "apiSecret": "your-binance-api-secret",
+    "whitelistedChatIds": [123456789],
+    "maxExposurePerSymbol": "200",
+    "maxTotalExposure": "500",
+    "maxOrdersPerSymbol": "100",
+    "maxTotalOrders": "1000",
+    "healthCheckFrequency": "120",
+    "ignoreList": [],
+    "ignoreFunding": []
+}
