@@ -2,7 +2,7 @@
 
 A Telegram bot that watches a Binance USDS-margined futures account and sends an alert when a risk limit is breached.
 
-> Written in September 2025. Not maintained.
+> This project was written in September 2025 and published in October 2026 as an archive. It is not maintained and the pinned libraries are out of date.
 
 ## What it does
 
